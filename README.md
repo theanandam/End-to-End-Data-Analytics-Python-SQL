@@ -11,3 +11,11 @@ This project is an end-to-end data analytics pipeline where I used **Python (Pan
 ---
 
 ## 📂 Project Structure
+
+📁 End-to-End-Data-Analytics-Python-SQL
+│-- 📂 notebooks/        # Jupyter Notebooks for data cleaning & analysis
+│-- 📂 sql_queries/      # SQL scripts for data querying & insights
+│-- 📂 data/             # Dataset (CSV file, if included)
+│-- 📂 results/          # Screenshots of SQL query results (optional)
+│-- 📄 README.md         # Project documentation
+
